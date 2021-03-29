@@ -18,9 +18,9 @@ Designed with three-stage pipeline,  Cache will not be considered to added into 
 - [x] IF unit basic design
 - [x] ID unit basic design
 - [x] EX unit basic design
-- [] Control unit design
-- [] Memory/Bus unit design
-- [] Branch Prediction unit design
-- [] Complete instruction set
-- [] Verification
-- [] Peripherals
+- [ ] Control unit design
+- [ ] Memory/Bus unit design
+- [ ] Branch Prediction unit design
+- [ ] Complete instruction set
+- [ ] Verification
+- [ ] Peripherals
